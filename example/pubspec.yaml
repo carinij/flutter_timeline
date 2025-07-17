@@ -1,5 +1,5 @@
 name: example
-description: "Example app for flutter_gantt"
+description: "Example app for flutter_timeline"
 
 publish_to: 'none'
 
@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
-  flutter_gantt:
+  flutter_timeline:
     path: ../
 
 dev_dependencies:
